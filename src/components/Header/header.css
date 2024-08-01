@@ -1,0 +1,20 @@
+.navelink{
+    background-color: blueviolet;
+    
+}
+.logo{
+    width: 40px;
+    height: 30px;
+}
+.student{
+    width: 400px;
+    height: 300px;
+}
+.li{
+    color: black;
+    font-size: 24px;
+}
+.size{
+    font-weight: 25px;
+    color: black;
+}
